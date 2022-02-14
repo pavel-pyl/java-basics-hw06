@@ -4,6 +4,7 @@ public class FahrenheitRunner {
 
   /**
    * The main method is to ask users input and convert it from Fahrenheit to Celsius.
+   *
    * @param args empty
    */
   public static void main(String[] args) {
